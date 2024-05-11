@@ -1,7 +1,7 @@
 ---
 title: 'CUG本科课设Latex模版'
 date: 2023-04-15
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2023/04/blog-post-1/
 tags:
   - CUG
   - latex
